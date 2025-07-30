@@ -87,4 +87,4 @@ Com abas “Visão Geral” e “Analítico” e painel de filtros lateral
 
 Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/ThiagoPBorges/Portifolio_PowerBI/blob/main/Print_Painel.jpg)
+Example: ![Dashboard Preview](https://github.com/ThiagoPBorges/Portifolio_PowerBI/blob/main/Print_Painel.jpg?raw=true)
