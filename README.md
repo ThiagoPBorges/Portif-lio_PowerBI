@@ -85,6 +85,5 @@ Com abas “Visão Geral” e “Analítico” e painel de filtros lateral
 ⏱ Ganho de Tempo – Reduz a necessidade de compilar relatórios manuais recorrentes<br>
 💡 Contextualização Inteligente – Relaciona dados econômicos com eventos políticos e fiscais relevantes
 
-Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Screenshots
 Example: ![Dashboard Preview](https://github.com/ThiagoPBorges/Portifolio_PowerBI/blob/main/Print_Painel.jpg?raw=true)
